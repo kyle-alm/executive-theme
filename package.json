@@ -1,0 +1,33 @@
+{
+    "name": "executive-theme",
+    "displayName": "Executive Theme",
+    "description": "A luxurious color theme for devs with crown moulding.",
+    "publisher": "kylealm",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.101.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "license": "MIT",
+    "icon": "./themes/images/ExecutiveLogo.png",
+    "keywords": [
+        "theme",
+        "color-theme",
+        "dark-theme",
+        "luxury",
+        "executive",
+        "dark"
+    ],
+    "pricing": "Free",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Executive Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Executive Theme-color-theme.json"
+            }
+        ]
+    }
+}
