@@ -20,6 +20,13 @@
         "executive",
         "dark"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kyle-alm/executive-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kyle-alm/executive-theme/issues"
+    },
     "pricing": "Free",
     "contributes": {
         "themes": [

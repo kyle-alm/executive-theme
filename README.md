@@ -1,16 +1,16 @@
-# executive-theme README
+# Executive
 
-## Working with Markdown
+## A luxurious color theme for devs with crown moulding. Deep jade greens, rich brown accents, and a touch of refined taste.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Executive Theme Preview](themes/images/ExecutiveTheme.png)
 
-## For more information
+---
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Installation
 
-**Enjoy!**
+1. Search for Executive Theme in the Extensions sidebar in VS Code.
+2. Click Install to add it to your editor.
+3. Open the Command Palette and run Preferences: Color Theme.
+4. Select Executive from the list to activate.
