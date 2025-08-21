@@ -793,7 +793,7 @@
             "name": "Attribute IDs",
             "scope": "entity.other.attribute-name.id",
             "settings": {
-                "fontStyle": "normal",
+                "fontStyle": "",
                 "foreground": "#2b9ed1"
             }
         },
@@ -801,7 +801,7 @@
             "name": "Attribute class",
             "scope": "entity.other.attribute-name.class.css",
             "settings": {
-                "fontStyle": "normal",
+                "fontStyle": "",
                 "foreground": "#dd8730"
             }
         },
@@ -1885,9 +1885,9 @@
         "badge.foreground": "#ffe6cc",
         "terminal.background": "#181e21",
         "terminal.foreground": "#dec1a3",
-        "terminal.selectionBackground": "#38636d2e",
-        "terminalCursor.background": "#1c6f73",
-        "terminalCursor.foreground": "#342910",
+        "terminal.selectionBackground": "#1c6f7366",
+        "terminalCursor.background": "#181e21",
+        "terminalCursor.foreground": "#1c6f73",
         "terminal.border": "#543529",
         "terminal.ansiBlack": "#000000",
         "terminal.ansiBlue": "#2e99c2",
